@@ -1,0 +1,18 @@
+Strawberries|3.0
+Strawberry Syrup|.50
+Powdered Sugar|.25
+Pie Dough|1.5
+Ice Cream|2.5
+Banana|.75
+Chocolate Syrup|.50
+Whip Topping|.25
+Maraschino Cherry|.15
+Churros|1.75
+Crushed Oreos|.50
+Vanilla Creme|.25
+M&Ms|.35
+Cookies|1.75
+Cupcakes|2.15
+Vanilla Icing|.75
+Funnel Cake|4.0
+Chocolate Chips|.75

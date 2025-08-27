@@ -1,0 +1,12 @@
+Hard Taco Shell|2.0
+Soft Taco Shell|2.0
+Chips|1.5
+Flour Tortilla|3.5
+Ground Beef|1.5
+Refried Beans|1.5
+Rice|1.0
+Lettuce|.25
+Tomato|.35
+Cheese|.75
+Sour Cream|.25
+

@@ -1,0 +1,15 @@
+Pancakes|10.00
+Waffles|10.00
+Chicken|2.50
+Egg|2.0
+Bacon|1.50
+Maple Syrup|1.0
+Potatoes, Shredded|2.75
+Sausage|1.75
+Ham|2.00
+Cheese|.75
+Butter|.35
+Salt|.25
+Powdered Sugar|.25
+Mini Cinnamon Rolls|3.99
+Fruit bowl|2.99

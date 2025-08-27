@@ -1,0 +1,6 @@
+Pizza Crust|8.99
+Deep Dish Crust|9.99
+Pizza Sauce|1.0
+Cheese|2.0
+Italian Sausage|1.75
+Pepperoni|1.75

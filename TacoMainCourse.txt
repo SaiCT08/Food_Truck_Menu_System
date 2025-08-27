@@ -1,0 +1,24 @@
+*Crunchy Taco Supreme 3.5
+Hard Taco Shell
+Ground Beef
+Lettuce
+Tomato
+Cheese
+Sour Cream
+
+*Soft Taco Supreme 3.5
+Soft Taco Shell
+Ground Beef
+Lettuce
+Tomato
+Cheese
+Sour Cream
+
+*Burrito 5.99
+Flour Tortilla
+Refried Beans
+Ground Beef
+Rice
+Lettuce
+Tomato
+Cheese

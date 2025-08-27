@@ -1,0 +1,19 @@
+*Sunny Stack 10.99
+Pancakes
+Egg
+Bacon
+Butter
+Maple Syrup
+
+*Southern Stack 13.99
+Waffles
+Butter
+Powdered Sugar
+Chicken
+Eggs
+Sausage
+
+*Ham and Cheese Omelette 8.99
+Eggs
+Ham
+Cheese

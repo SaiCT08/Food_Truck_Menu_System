@@ -1,0 +1,27 @@
+American Cheese|.75
+BBQ Sauce|.1
+Bacon|1.25
+Beef 1/2 lbs|3.0
+Beef 1/3 lbs|2.75
+Beef 1/4 lbs|2.5
+Black Bean Patty|4.25
+Cheddar Cheese|.75
+Chicken|2.75
+Chili|1.5
+Fruit Cup|2.99
+Jalapenos|.20
+Ketchup|.1
+Lettuce|.15
+Light Mayo|.1
+Mayo|.1
+Mustard|.1
+Onions|.20
+Pickles|.20
+Regular Bun|2.0
+Salt|.05
+Sandwich Bread|1.5
+Sauteed Mushrooms|.50
+Sourdough Bun|2.50
+Swiss Cheese|.75
+Tomato|.20
+Wheat Bun|2.25

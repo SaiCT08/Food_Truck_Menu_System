@@ -1,0 +1,10 @@
+Crepe|6.75
+Waffle|7.75
+French Toast|4.75
+Bacon|1.99
+Potatoes, Shredded|2.50
+Butter|.50
+Maple Syrup|2.5
+Powdered Sugar|1.5
+Fruit Cup|2.99
+Salt|.25

@@ -1,0 +1,12 @@
+*Fruit Cup 2.99
+Fruit Cup
+
+*Cup of Fries 2.99
+Salt
+
+*Basket of Fries 4.99
+Salt
+
+*Chili Fries 4.99
+Salt
+Chili

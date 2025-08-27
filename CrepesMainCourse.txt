@@ -1,0 +1,19 @@
+*Crepe Celeste 7.5
+Crepe
+Butter
+Maple Syrup
+
+*Fruit Crepe 8.0
+Crepe
+Fruit Filling
+Whip Creme
+
+*Waffles 7.0
+Waffle
+Butter
+Maple Syrup
+
+*French Toast 5.99
+French Toast
+Butter
+Powdered Sugar

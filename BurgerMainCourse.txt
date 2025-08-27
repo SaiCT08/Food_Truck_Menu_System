@@ -1,0 +1,53 @@
+*Basic Burger 4.99
+Regular Bun
+Beef 1/4 Lbs
+Cheddar Cheese
+Lettuce
+Tomato
+Pickles
+Onions
+Mayo
+
+*Veggie Burger 6.99
+Black Bean Patty
+Lettuce
+Tomato
+Pickles
+Onions
+
+*Bacon Burger 5.99
+Regular Bun
+Beef 1/3 lbs
+Bacon
+Cheddar Cheese
+Lettuce
+Tomato
+Pickles
+Onions
+Mayo
+
+*Big Burger 8.99
+Sourdough Bun
+Beef 1/2 lbs
+Bacon
+Sauteed Mushrooms
+Swiss Cheese
+Cheddar Cheese
+Lettuce
+Tomato
+Pickles
+Onions
+Mayo
+*aaa 1.22
+American
+*asdas 12.22
+Beef
+Black
+*asda 12.22
+American Cheese
+Beef 1/3 lbs
+*Aniirudh Special 69.99
+Bacon
+Beef 1/3 lbs
+Lettuce
+Regular Bun

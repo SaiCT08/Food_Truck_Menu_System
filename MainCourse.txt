@@ -1,0 +1,44 @@
+
+
+
+*Bacon Burger 5.99
+*Basic Burger 4.99
+*Big Burger 8.99
+*Veggie Burger 6.99
+*asd 11.23
+American Cheese - $0.75
+Beef 1/4 lbs - $2.5
+
+Bacon
+Bacon
+Beef 1/2 lbs
+Beef 1/3 lbs
+Beef 1/4 Lbs
+Black Bean Patty
+Cheddar Cheese
+Cheddar Cheese
+Cheddar Cheese
+Lettuce
+Lettuce
+Lettuce
+Lettuce
+Mayo
+Mayo
+Mayo
+Onions
+Onions
+Onions
+Onions
+Pickles
+Pickles
+Pickles
+Pickles
+Regular Bun
+Regular Bun
+Sauteed Mushrooms
+Sourdough Bun
+Swiss Cheese
+Tomato
+Tomato
+Tomato
+Tomato

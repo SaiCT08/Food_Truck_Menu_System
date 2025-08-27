@@ -1,0 +1,16 @@
+*Cheese Pizza 8.99
+Pizza Crust
+Pizza Sauce
+Cheese
+
+*Italian Sausage Pizza 10.99
+Pizza Crust
+Italian Sausage
+Cheese
+Pizza Sauce
+
+*Detroit Deep-Dish Pizza 12.99
+Deep Crust
+Pizza Sauce
+Cheese
+Pepperoni
